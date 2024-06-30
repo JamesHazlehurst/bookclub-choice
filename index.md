@@ -17,7 +17,14 @@ They arrive expecting the unexpected, and Area X delivers—but it’s the surpr
 
 **Audiobook Length:** 6 hours
 
-**Goodreads Rating:** (3.77)
+**Goodreads Rating:**
+<span class="star-rating">
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star-half-alt"></i>
+  <i class="far fa-star"></i>
+</span> (3.77)
 
 ---
 
@@ -37,7 +44,14 @@ On a distant planet, a team of scientists is conducting surface tests, shadowed 
 
 **Audiobook Length:** 3 hours 17 minutes
 
-**Goodreads Rating:** (4.15)
+**Goodreads Rating:**
+<span class="star-rating">
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="far fa-star"></i>
+</span> (4.15)
 
 ---
 
@@ -55,6 +69,13 @@ But Ender is not the only result of the experiment. The war with the Buggers has
 
 **Audiobook Length:** 7 hours 24 minutes
 
-**Goodreads Rating:** (4.31)
+**Goodreads Rating:**
+<span class="star-rating">
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="far fa-star"></i>
+</span> (4.31)
 
 ---
