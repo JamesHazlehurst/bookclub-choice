@@ -21,14 +21,14 @@ export default defineConfig({
     //     ]
     //   }
     // ],
-    logo: '/logo.jpg',
+    logo: '/logo-circle-crop.jpg',
 
     socialLinks: [
       { icon: 'github', link: 'https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran' }
     ]
   },
   head: [
-    ['link', { rel: 'icon', href: '/bookclub-choice/logo.jpg' }]
+    ['link', { rel: 'icon', href: '/bookclub-choice/logo-circle-crop.jpg' }]
   ]
 })
 
