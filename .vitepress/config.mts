@@ -28,7 +28,7 @@ export default defineConfig({
     ]
   },
   head: [
-    ['link', { rel: 'icon', href: '/logo.jpg' }]
+    ['link', { rel: 'icon', href: '/bookclub-choice/logo.jpg' }]
   ]
 })
 
