@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Prose Before Hoes",
   description: "A site which shows book options for our book club.",
+  base: '/bookclub-choice/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     // nav: [
