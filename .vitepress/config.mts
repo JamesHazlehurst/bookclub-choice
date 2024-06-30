@@ -21,6 +21,9 @@ export default defineConfig({
     //     ]
     //   }
     // ],
+
+    // redeploy test
+
     logo: '/logo-circle-crop.png',
 
     socialLinks: [
