@@ -21,14 +21,11 @@ export default defineConfig({
     //     ]
     //   }
     // ],
-    logo: '/assets/logo.jpg',
+
 
     socialLinks: [
       { icon: 'github', link: 'https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran' }
     ]
-  },
-  head: [
-    ['link', { rel: 'icon', href: '/assets/logo.jpg' }]
-  ]
+  }
 })
 
