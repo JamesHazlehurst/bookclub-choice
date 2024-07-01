@@ -11,7 +11,7 @@
   font-size: var(--star-size);
   font-family: Times; /* make sure ★ appears correctly */
   line-height: 1;
-  vertical-align: -0.1em; /* Adjust to achieve the desired alignment */
+  vertical-align: -0.075em; /* Adjust to achieve the desired alignment */
 
   
   &::before {
