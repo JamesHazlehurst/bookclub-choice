@@ -31,7 +31,6 @@ export default defineConfig({
   },
   head: [
     ['link', { rel: 'icon', href: '/bookclub-choice/logo-circle-crop.png' }],
-    ['link', { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css' }],
     ['link', { rel: 'stylesheet', href: '/bookclub-choice/custom.css' }]
   ]
 })

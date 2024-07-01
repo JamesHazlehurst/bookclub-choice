@@ -1,11 +1,22 @@
-.star-rating {
-  display: inline-block;
-  font-size: 1em;
-  font-family: FontAwesome;
-  margin-left: 10px;
+:root {
+  --star-size: 25px;
+  --star-color: #adadad;
+  --star-background: #fc0;
 }
 
-.star-rating .fa-star,
-.star-rating .fa-star-half-alt {
-  color: gold;
+.Stars {
+  --percent: calc(var(--rating) / 5 * 100%);
+  
+  display: inline-block;
+  font-size: var(--star-size);
+  font-family: Times; /* make sure ★ appears correctly */
+  line-height: 1;
+  
+  &::before {
+    content: '★★★★★';
+    /* letter-spacing: 3px; */
+    background: linear-gradient(90deg, var(--star-background) var(--percent), var(--star-color) var(--percent));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
 }
