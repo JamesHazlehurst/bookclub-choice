@@ -21,6 +21,8 @@ They arrive expecting the unexpected, and Area X delivers—but it’s the surpr
 <span class="Stars" style="--rating: 3.77;" aria-label="Rating of this product is 3.77 out of 5."></span>
 (3.77)
 
+**Goodreads Link:** [Annihilation](https://www.goodreads.com/book/show/17934530-annihilation)
+
 ---
 
 ## All Systems Red (2017)
@@ -43,6 +45,8 @@ On a distant planet, a team of scientists is conducting surface tests, shadowed 
 <span class="Stars" style="--rating: 4.15;" aria-label="Rating of this product is 4.15 out of 5."></span>
 (4.15)
 
+**Goodreads Link:** [All Systems Red](https://www.goodreads.com/book/show/32758901-all-systems-red)
+
 ---
 
 ## Ender's Game (1985)
@@ -62,5 +66,7 @@ But Ender is not the only result of the experiment. The war with the Buggers has
 **Goodreads Rating:**
 <span class="Stars" style="--rating: 4.31;" aria-label="Rating of this product is 4.31 out of 5."></span>
 (4.31)
+
+**Goodreads Link:** [Ender's Game](https://www.goodreads.com/book/show/375802.Ender_s_Game)
 
 ---
