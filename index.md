@@ -1,3 +1,81 @@
+# Biography/Memoir Month
+
+## Just Mercy (2014)
+### Bryan Stevenson
+
+![Book Cover](./images/JustMercy.jpg)
+
+**Description:**  
+An unforgettable true story about the potential for mercy to redeem us, and a clarion call to end mass incarceration in America — from one of the most inspiring lawyers of our time.
+
+Bryan Stevenson was a young lawyer when he founded the Equal Justice Initiative, a nonprofit law office in Montgomery, Alabama, dedicated to defending the poor, the incarcerated, and the wrongly condemned.
+
+Just Mercy tells the story of EJI, from the early days with a small staff facing the nation’s highest death sentencing and execution rates, through a successful campaign to challenge the cruel practice of sentencing children to die in prison, to revolutionary projects designed to confront Americans with our history of racial injustice.
+
+One of EJI’s first clients was Walter McMillian, a young Black man who was sentenced to die for the murder of a young white woman that he didn’t commit. The case exemplifies how the death penalty in America is a direct descendant of lynching — a system that treats the rich and guilty better than the poor and innocent.
+
+**Word Count:** 84,000 words
+
+**Audiobook Length:** 11 hours 11 minutes
+
+**Goodreads Rating:**
+<span class="Stars" style="--rating: 4.63;" aria-label="Rating of this product is 4.63 out of 5."></span>
+(4.63)
+
+**Goodreads Link:** [Just Mercy](https://www.goodreads.com/book/show/20342617-just-mercy)
+
+---
+
+## Smoke Gets in Your Eyes & Other Lessons from the Crematory (2014)
+### Caitlin Doughty
+
+![Book Cover](./images/SmokeInYourEyesResized.jpg)
+
+**Description:**  
+Most people want to avoid thinking about death, but Caitlin Doughty—a twenty-something with a degree in medieval history and a flair for the macabre—took a job at a crematory, turning morbid curiosity into her life’s work. Thrown into a profession of gallows humor and vivid characters (both living and very dead), Caitlin learned to navigate the secretive culture of those who care for the deceased.
+
+Smoke Gets in Your Eyes tells an unusual coming-of-age story full of bizarre encounters and unforgettable scenes. Caring for dead bodies of every color, shape, and affliction, Caitlin soon becomes an intrepid explorer in the world of the dead. She describes how she swept ashes from the machines (and sometimes onto her clothes) and reveals the strange history of cremation and undertaking, marveling at bizarre and wonderful funeral practices from different cultures.
+
+Her eye-opening, candid, and often hilarious story is like going on a journey with your bravest friend to the cemetery at midnight. She demystifies death, leading us behind the black curtain of her unique profession. And she answers questions you didn’t know you had: Can you catch a disease from a corpse? How many dead bodies can you fit in a Dodge van? What exactly does a flaming skull look like?
+
+Honest and heartfelt, self-deprecating and ironic, Caitlin's engaging style makes this otherwise taboo topic both approachable and engrossing. Now a licensed mortician with an alternative funeral practice, Caitlin argues that our fear of dying warps our culture and society, and she calls for better ways of dealing with death (and our dead).
+
+**Word Count:** 68,000 words
+
+**Audiobook Length:** 7 hours 44 minutes
+
+**Goodreads Rating:**
+<span class="Stars" style="--rating: 4.22;" aria-label="Rating of this product is 4.22 out of 5."></span>
+(4.22)
+
+**Goodreads Link:** [Smoke Gets in Your Eyes & Other Lessons from the Crematory](https://www.goodreads.com/book/show/25189315-smoke-gets-in-your-eyes-other-lessons-from-the-crematory)
+
+---
+
+## Spaceman: An Astronaut's Unlikely Journey to Unlock the Secrets of the Universe (2014)
+### Mike Massimino
+
+![Book Cover](./images/SpacemanResized.jpg)
+
+**Description:**  
+Have you ever wondered what it would be like to find yourself strapped to a giant rocket that’s about to go from zero to 17,500 miles per hour? Or to look back on the earth from outer space and see the surprisingly precise line between day and night? Or to stand in front of the Hubble telescope, wondering if the emergency repair you’re about to make will inadvertently ruin humankind’s chance to unlock the universe’s secrets? Mike Massimino has been there, and in Spaceman he puts you inside the suit, with all the zip and buoyancy of life in microgravity.
+
+Massimino’s childhood space dreams were born the day Neil Armstrong set foot on the moon, but his journey to realizing those dreams was as unlikely as it is captivating. Growing up in a working-class Long Island family, Massimino catapulted himself to Columbia and then MIT, only to flunk his qualifying exams and be rejected twice by NASA before making it to the final round of astronaut selection—where he was told his poor eyesight meant he’d never make the cut. But even that couldn’t stop him from finally earning his wings, making the jump to training in T-38 Air Force jets and preparing his body—and soul—for the journey to the cosmos.
+
+Taking us through the surreal wonder and beauty of his first spacewalk, the tragedy of losing friends in the Columbia shuttle accident, and the development of his enduring love for the Hubble telescope—which he’d be tasked with saving on his final mission— Massimino has written an ode to never giving up and the power of teamwork to make anything possible. Spaceman invites us into a rare, wonderful world where the nerdiest science meets the most thrilling adventure, and pulls back a curtain on just what having “the right stuff” really means.
+
+**Word Count:** 84,000 words
+
+**Audiobook Length:** 10 hours 54 minutes
+
+**Goodreads Rating:**
+<span class="Stars" style="--rating: 4.53;" aria-label="Rating of this product is 4.53 out of 5."></span>
+(4.53)
+
+**Goodreads Link:** [Spaceman](https://www.goodreads.com/book/show/28439264-spaceman)
+
+---
+
 # Sci-Fi Month
 
 ## Annihilation (2014)
@@ -68,31 +146,5 @@ But Ender is not the only result of the experiment. The war with the Buggers has
 (4.31)
 
 **Goodreads Link:** [Ender's Game](https://www.goodreads.com/book/show/375802.Ender_s_Game)
-
----
-
-## Just Mercy (2014)
-### Orson Scott Card
-
-![Book Cover](./images/JustMercy.jpg)
-
-**Description:**  
-An unforgettable true story about the potential for mercy to redeem us, and a clarion call to end mass incarceration in America — from one of the most inspiring lawyers of our time.
-
-Bryan Stevenson was a young lawyer when he founded the Equal Justice Initiative, a nonprofit law office in Montgomery, Alabama, dedicated to defending the poor, the incarcerated, and the wrongly condemned.
-
-Just Mercy tells the story of EJI, from the early days with a small staff facing the nation’s highest death sentencing and execution rates, through a successful campaign to challenge the cruel practice of sentencing children to die in prison, to revolutionary projects designed to confront Americans with our history of racial injustice.
-
-One of EJI’s first clients was Walter McMillian, a young Black man who was sentenced to die for the murder of a young white woman that he didn’t commit. The case exemplifies how the death penalty in America is a direct descendant of lynching — a system that treats the rich and guilty better than the poor and innocent.
-
-**Word Count:** 84,000 words
-
-**Audiobook Length:** 11 hours 11 minutes
-
-**Goodreads Rating:**
-<span class="Stars" style="--rating: 4.63;" aria-label="Rating of this product is 4.63 out of 5."></span>
-(4.63)
-
-**Goodreads Link:** [Just Mercy](https://www.goodreads.com/book/show/20342617-just-mercy)
 
 ---
